@@ -1,1 +1,1 @@
-Used Tableu to create a visualization of the dataset
+A Samplestore Sales dataset is used for the visualization in Tableu. It is a dataset collected from Kaggle. Here, I have visualized some of the basic fileds in the datset, for better and quicker understanding.
