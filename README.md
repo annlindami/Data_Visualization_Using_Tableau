@@ -1,4 +1,4 @@
-# Data Visualization Using Tableau
+# Data Visualization  and Dashboard Creation Using Tableau
 
 A Samplestore Sales dataset was taken from the online website, "Kaggle".
 
